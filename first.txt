@@ -1,6 +1,7 @@
-Hello Taiki.
 Gitの練習をしていくらしいです
 
-追加した
+追加コマンド
 git add
 git commit
+git rm
+git status
