@@ -1,1 +1,6 @@
 Hello Taiki.
+Gitの練習をしていくらしいです
+
+追加した
+git add
+git commit
